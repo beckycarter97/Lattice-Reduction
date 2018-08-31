@@ -1,0 +1,248 @@
+
+Comparison of Reduction Methods for 40 dim lattice
+Reduction Method: lll             	 Length of first vector: 1936.89442149 	 Runtime: 0.083769559860229
+Reduction Method: bkz-b20         	 Length of first vector: 1702.46439023 	 Runtime: 0.102016210556030
+Reduction Method: bkz-b25         	 Length of first vector: 1702.46439023 	 Runtime: 0.110368967056274
+Reduction Method: hkz             	 Length of first vector: 1702.46439023 	 Runtime: 0.755833387374878
+Reduction Method: sld-b20         	 Length of first vector: 1743.56961433 	 Runtime: 0.092098951339722
+Reduction Method: svp             	 Length of first vector: 1702.46439023 	 Runtime: 0.317518711090088
+
+Comparison of Reduction Methods for 42 dim lattice
+Reduction Method: lll             	 Length of first vector: 1553.90250659 	 Runtime: 0.096062183380127
+Reduction Method: bkz-b20         	 Length of first vector: 1553.90250659 	 Runtime: 0.110805988311768
+Reduction Method: bkz-b25         	 Length of first vector: 1553.90250659 	 Runtime: 0.142087221145630
+Reduction Method: hkz             	 Length of first vector: 1553.90250659 	 Runtime: 0.575588941574097
+Reduction Method: sld-b20         	 Length of first vector: 1553.90250659 	 Runtime: 0.105405807495117
+Reduction Method: svp             	 Length of first vector: 1553.90250659 	 Runtime: 0.132450819015503
+
+Comparison of Reduction Methods for 44 dim lattice
+Reduction Method: lll             	 Length of first vector: 2251.18457706 	 Runtime: 0.116672515869141
+Reduction Method: bkz-b20         	 Length of first vector: 1714.38589588 	 Runtime: 0.160585403442383
+Reduction Method: bkz-b25         	 Length of first vector: 1680.88429108 	 Runtime: 0.153946876525879
+Reduction Method: hkz             	 Timed out
+Reduction Method: sld-b20         	 Length of first vector: 1893.03248784 	 Runtime: 0.126345634460449
+Reduction Method: svp             	 Length of first vector: 1680.88429108 	 Runtime: 1.975533485412598
+
+Comparison of Reduction Methods for 46 dim lattice
+Reduction Method: lll             	 Length of first vector: 2115.08486827 	 Runtime: 0.138157844543457
+Reduction Method: bkz-b20         	 Length of first vector: 1751.15076450 	 Runtime: 0.178746938705444
+Reduction Method: bkz-b25         	 Length of first vector: 1728.97975697 	 Runtime: 0.209758758544922
+Reduction Method: hkz             	 Timed out
+Reduction Method: sld-b20         	 Length of first vector: 2027.64222682 	 Runtime: 0.143248796463013
+Reduction Method: svp             	 Timed out
+
+Comparison of Reduction Methods for 48 dim lattice
+Reduction Method: lll             	 Length of first vector: 2700.98870786 	 Runtime: 0.161456823348999
+Reduction Method: bkz-b20         	 Length of first vector: 1924.85064356 	 Runtime: 0.206896305084229
+Reduction Method: bkz-b25         	 Length of first vector: 1795.18912653 	 Runtime: 0.329368829727173
+Reduction Method: hkz             	 Timed out
+Reduction Method: sld-b20         	 Length of first vector: 1959.69079194 	 Runtime: 0.178134918212891
+Reduction Method: svp             	 Timed out
+
+Comparison of Reduction Methods for 50 dim lattice
+Reduction Method: lll             	 Length of first vector: 2823.62515218 	 Runtime: 0.202591419219971
+Reduction Method: bkz-b20         	 Length of first vector: 2007.92380334 	 Runtime: 0.258359670639038
+Reduction Method: bkz-b25         	 Length of first vector: 1905.04566874 	 Runtime: 0.487890005111694
+Reduction Method: hkz             	 Timed out
+Reduction Method: sld-b20         	 Length of first vector: 2008.44492083 	 Runtime: 0.210755348205566
+Reduction Method: svp             	 Timed out
+
+Comparison of Reduction Methods for 52 dim lattice
+Reduction Method: lll             	 Length of first vector: 2629.77527557 	 Runtime: 0.229989051818848
+Reduction Method: bkz-b20         	 Length of first vector: 1956.11374925 	 Runtime: 0.335463523864746
+Reduction Method: bkz-b25         	 Length of first vector: 1906.20145840 	 Runtime: 0.437026500701904
+Reduction Method: hkz             	 Timed out
+Reduction Method: sld-b20         	 Length of first vector: 1975.11873061 	 Runtime: 0.255148410797119
+Reduction Method: svp             	 Timed out
+
+Comparison of Reduction Methods for 54 dim lattice
+Reduction Method: lll             	 Length of first vector: 2491.71447000 	 Runtime: 0.262219667434692
+Reduction Method: bkz-b20         	 Length of first vector: 2120.08372476 	 Runtime: 0.340800046920776
+Reduction Method: bkz-b25         	 Length of first vector: 1921.28784933 	 Runtime: 0.688850879669189
+Reduction Method: hkz             	 Timed out
+Reduction Method: sld-b20         	 Length of first vector: 2222.37260602 	 Runtime: 0.283989906311035
+Reduction Method: svp             	 Timed out
+
+Comparison of Reduction Methods for 56 dim lattice
+Reduction Method: lll             	 Length of first vector: 2525.98040372 	 Runtime: 0.313544511795044
+Reduction Method: bkz-b20         	 Length of first vector: 1973.51057763 	 Runtime: 0.480958938598633
+Reduction Method: bkz-b25         	 Length of first vector: 1973.51057763 	 Runtime: 0.578996658325195
+Reduction Method: hkz             	 Timed out
+Reduction Method: sld-b20         	 Length of first vector: 1973.51057763 	 Runtime: 0.337174892425537
+Reduction Method: svp             	 Timed out
+
+Comparison of Reduction Methods for 58 dim lattice
+Reduction Method: lll             	 Length of first vector: 2786.62537848 	 Runtime: 0.346479654312134
+Reduction Method: bkz-b20         	 Length of first vector: 2043.89774695 	 Runtime: 0.489266395568848
+Reduction Method: bkz-b25         	 Length of first vector: 2112.01420450 	 Runtime: 0.867888450622559
+Reduction Method: hkz             	 Timed out
+Reduction Method: sld-b20         	 Length of first vector: 2262.17925903 	 Runtime: 0.377993106842041
+Reduction Method: svp             	 Timed out
+
+Comparison of Reduction Methods for 60 dim lattice
+Reduction Method: lll             	 Length of first vector: 3375.36709115 	 Runtime: 0.549332141876221
+Reduction Method: bkz-b20         	 Length of first vector: 2290.05065446 	 Runtime: 0.530760526657104
+Reduction Method: bkz-b25         	 Length of first vector: 1943.40088505 	 Runtime: 1.497148275375366
+Reduction Method: hkz             	 Timed out
+Reduction Method: sld-b20         	 Length of first vector: 2348.98169427 	 Runtime: 0.518015623092651
+Reduction Method: svp             	 Timed out
+
+Comparison of Reduction Methods for 62 dim lattice
+Reduction Method: lll             	 Length of first vector: 3163.49348032 	 Runtime: 0.523025512695312
+Reduction Method: bkz-b20         	 Length of first vector: 2184.81280663 	 Runtime: 0.841977357864380
+Reduction Method: bkz-b25         	 Length of first vector: 2187.03315018 	 Runtime: 0.862406253814697
+Reduction Method: hkz             	 Timed out
+Reduction Method: sld-b20         	 Length of first vector: 2322.91605531 	 Runtime: 0.597665548324585
+Reduction Method: svp             	 Timed out
+
+Comparison of Reduction Methods for 64 dim lattice
+Reduction Method: lll             	 Length of first vector: 3828.82527677 	 Runtime: 0.635069370269775
+Reduction Method: bkz-b20         	 Length of first vector: 2299.66193168 	 Runtime: 0.959025382995605
+Reduction Method: bkz-b25         	 Length of first vector: 2212.35055992 	 Runtime: 2.190287113189697
+Reduction Method: hkz             	 Timed out
+Reduction Method: sld-b20         	 Length of first vector: 2483.97342981 	 Runtime: 0.672119140625000
+Reduction Method: svp             	 Timed out
+
+Comparison of Reduction Methods for 66 dim lattice
+Reduction Method: lll             	 Length of first vector: 3794.20386906 	 Runtime: 0.652385711669922
+Reduction Method: bkz-b20         	 Length of first vector: 2392.04326884 	 Runtime: 0.907625675201416
+Reduction Method: bkz-b25         	 Length of first vector: 2203.75180091 	 Runtime: 1.898500680923462
+Reduction Method: hkz             	 Timed out
+Reduction Method: sld-b20         	 Length of first vector: 2590.98166725 	 Runtime: 0.756892442703247
+Reduction Method: svp             	 Timed out
+
+Comparison of Reduction Methods for 68 dim lattice
+Reduction Method: lll             	 Length of first vector: 3823.23933334 	 Runtime: 0.747907400131226
+Reduction Method: bkz-b20         	 Length of first vector: 2218.14066281 	 Runtime: 1.094415903091431
+Reduction Method: bkz-b25         	 Length of first vector: 2342.77677127 	 Runtime: 2.187978744506836
+Reduction Method: hkz             	 Timed out
+Reduction Method: sld-b20         	 Length of first vector: 2689.24394580 	 Runtime: 0.869194746017456
+Reduction Method: svp             	 Timed out
+
+Comparison of Reduction Methods for 70 dim lattice
+Reduction Method: lll             	 Length of first vector: 4060.35675772 	 Runtime: 0.860893487930298
+Reduction Method: bkz-b20         	 Length of first vector: 2278.43674479 	 Runtime: 1.432553052902222
+Reduction Method: bkz-b25         	 Length of first vector: 2417.45858289 	 Runtime: 1.705786705017090
+Reduction Method: hkz             	 Timed out
+Reduction Method: sld-b20         	 Length of first vector: 2625.94649603 	 Runtime: 0.919354677200317
+Reduction Method: svp             	 Timed out
+
+Comparison of Reduction Methods for 72 dim lattice
+Reduction Method: lll             	 Length of first vector: 4569.92319410 	 Runtime: 0.911538600921631
+Reduction Method: bkz-b20         	 Length of first vector: 2626.52355786 	 Runtime: 1.395033597946167
+Reduction Method: bkz-b25         	 Length of first vector: 2240.71729587 	 Runtime: 3.206954240798950
+Reduction Method: hkz             	 Timed out
+Reduction Method: sld-b20         	 Length of first vector: 2870.13536266 	 Runtime: 1.089111089706421
+Reduction Method: svp             	 Timed out
+
+Comparison of Reduction Methods for 74 dim lattice
+Reduction Method: lll             	 Length of first vector: 4615.74078562 	 Runtime: 1.067491769790649
+Reduction Method: bkz-b20         	 Length of first vector: 2489.09541802 	 Runtime: 1.542861223220825
+Reduction Method: bkz-b25         	 Length of first vector: 2350.14212336 	 Runtime: 2.527435064315796
+Reduction Method: hkz             	 Timed out
+Reduction Method: sld-b20         	 Length of first vector: 2834.55463874 	 Runtime: 1.206495523452759
+Reduction Method: svp             	 Timed out
+
+Comparison of Reduction Methods for 76 dim lattice
+Reduction Method: lll             	 Length of first vector: 4655.43295516 	 Runtime: 1.150493383407593
+Reduction Method: bkz-b20         	 Length of first vector: 2654.59356588 	 Runtime: 1.895746469497681
+Reduction Method: bkz-b25         	 Length of first vector: 2640.59652352 	 Runtime: 2.787405252456665
+Reduction Method: hkz             	 Timed out
+Reduction Method: sld-b20         	 Length of first vector: 3024.34472242 	 Runtime: 1.290169239044189
+Reduction Method: svp             	 Timed out
+
+Comparison of Reduction Methods for 78 dim lattice
+Reduction Method: lll             	 Length of first vector: 4454.85779795 	 Runtime: 1.313861608505249
+Reduction Method: bkz-b20         	 Length of first vector: 2805.66605283 	 Runtime: 1.933619499206543
+Reduction Method: bkz-b25         	 Timed out
+Reduction Method: hkz             	 Timed out
+Reduction Method: sld-b20         	 Length of first vector: 3094.40785935 	 Runtime: 1.457366466522217
+Reduction Method: svp             	 Timed out
+
+Comparison of Reduction Methods for 80 dim lattice
+Reduction Method: lll             	 Length of first vector: 4684.54426812 	 Runtime: 1.447601318359375
+Reduction Method: bkz-b20         	 Length of first vector: 2833.60918265 	 Runtime: 2.178639650344849
+Reduction Method: bkz-b25         	 Length of first vector: 2609.16461727 	 Runtime: 2.555561542510986
+Reduction Method: hkz             	 Timed out
+Reduction Method: sld-b20         	 Length of first vector: 3314.90195933 	 Runtime: 1.576581478118896
+Reduction Method: svp             	 Timed out
+
+Comparison of Reduction Methods for 82 dim lattice
+Reduction Method: lll             	 Length of first vector: 4713.94919362 	 Runtime: 1.619260311126709
+Reduction Method: bkz-b20         	 Length of first vector: 2740.43846857 	 Runtime: 2.940688133239746
+Reduction Method: bkz-b25         	 Timed out
+Reduction Method: hkz             	 Timed out
+Reduction Method: sld-b20         	 Length of first vector: 3269.83485822 	 Runtime: 1.795503139495850
+Reduction Method: svp             	 Timed out
+
+Comparison of Reduction Methods for 84 dim lattice
+Reduction Method: lll             	 Length of first vector: 5223.44685050 	 Runtime: 1.834656715393066
+Reduction Method: bkz-b20         	 Length of first vector: 2878.34483688 	 Runtime: 2.850881814956665
+Reduction Method: bkz-b25         	 Timed out
+Reduction Method: hkz             	 Timed out
+Reduction Method: sld-b20         	 Length of first vector: 3203.05978714 	 Runtime: 2.075924634933472
+Reduction Method: svp             	 Timed out
+
+Comparison of Reduction Methods for 86 dim lattice
+Reduction Method: lll             	 Length of first vector: 5165.46522590 	 Runtime: 2.009480953216553
+Reduction Method: bkz-b20         	 Length of first vector: 2972.48010927 	 Runtime: 3.665125608444214
+Reduction Method: bkz-b25         	 Timed out
+Reduction Method: hkz             	 Timed out
+Reduction Method: sld-b20         	 Length of first vector: 3453.38486126 	 Runtime: 2.277457952499390
+Reduction Method: svp             	 Timed out
+
+Comparison of Reduction Methods for 88 dim lattice
+Reduction Method: lll             	 Length of first vector: 5229.22422545 	 Runtime: 2.083111524581909
+Reduction Method: bkz-b20         	 Length of first vector: 3073.44041751 	 Runtime: 2.984773159027100
+Reduction Method: bkz-b25         	 Timed out
+Reduction Method: hkz             	 Timed out
+Reduction Method: sld-b20         	 Length of first vector: 3562.02217848 	 Runtime: 2.580980777740479
+Reduction Method: svp             	 Timed out
+
+Comparison of Reduction Methods for 90 dim lattice
+Reduction Method: lll             	 Length of first vector: 6131.77095136 	 Runtime: 2.455197334289551
+Reduction Method: bkz-b20         	 Length of first vector: 3153.54276965 	 Runtime: 3.707129955291748
+Reduction Method: bkz-b25         	 Timed out
+Reduction Method: hkz             	 Timed out
+Reduction Method: sld-b20         	 Length of first vector: 3944.95145724 	 Runtime: 2.619129896163940
+Reduction Method: svp             	 Timed out
+
+Comparison of Reduction Methods for 92 dim lattice
+Reduction Method: lll             	 Length of first vector: 6710.59557715 	 Runtime: 2.530038118362427
+Reduction Method: bkz-b20         	 Length of first vector: 3110.83316814 	 Runtime: 4.422902584075928
+Reduction Method: bkz-b25         	 Timed out
+Reduction Method: hkz             	 Timed out
+Reduction Method: sld-b20         	 Length of first vector: 4046.84852694 	 Runtime: 2.854377269744873
+Reduction Method: svp             	 Timed out
+
+Comparison of Reduction Methods for 94 dim lattice
+Reduction Method: lll             	 Length of first vector: 6184.81778228 	 Runtime: 2.838719606399536
+Reduction Method: bkz-b20         	 Length of first vector: 3316.88407998 	 Runtime: 4.724947452545166
+Reduction Method: bkz-b25         	 Timed out
+Reduction Method: hkz             	 Timed out
+Reduction Method: sld-b20         	 Length of first vector: 3741.93439280 	 Runtime: 3.147745847702026
+Reduction Method: svp             	 Timed out
+
+Comparison of Reduction Methods for 96 dim lattice
+Reduction Method: lll             	 Length of first vector: 7409.84075402 	 Runtime: 2.848985910415649
+Reduction Method: bkz-b20         	 Timed out
+Reduction Method: bkz-b25         	 Timed out
+Reduction Method: hkz             	 Timed out
+Reduction Method: sld-b20         	 Length of first vector: 3969.70993903 	 Runtime: 3.409991502761841
+Reduction Method: svp             	 Timed out
+
+Comparison of Reduction Methods for 98 dim lattice
+Reduction Method: lll             	 Length of first vector: 6769.34339504 	 Runtime: 3.229728698730469
+Reduction Method: bkz-b20         	 Timed out
+Reduction Method: bkz-b25         	 Timed out
+Reduction Method: hkz             	 Timed out
+Reduction Method: sld-b20         	 Length of first vector: 4095.20695448 	 Runtime: 3.613029241561890
+Reduction Method: svp             	 Timed out
+
+Comparison of Reduction Methods for 100 dim lattice
+Reduction Method: lll             	 Length of first vector: 6798.04288012 	 Runtime: 3.510803461074829
+Reduction Method: bkz-b20         	 Timed out
+Reduction Method: bkz-b25         	 Timed out
+Reduction Method: hkz             	 Timed out
+Reduction Method: sld-b20         	 Length of first vector: 4241.19428935 	 Runtime: 4.035713911056519
+Reduction Method: svp             	 Timed out
